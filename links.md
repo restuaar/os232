@@ -19,8 +19,17 @@ A basic Linux command line that we use regularly. It’s important to recognize 
 This YouTube video introduces some important terms and concepts in cryptography and cybersecurity. Highly recommended for learning how common cryptography concepts work, like hashing, encryption, signing.
 
 - [What is GPG / PGP and how do I use it?](https://www.privex.io/articles/what-is-gpg)<br/>
-This week, we use GPG in our assignment, but what exactly is GPG? This article provides an explanation of GPG and its practical applications for secure message transmission
+This week, we use GPG in our assignment, but what exactly is GPG? This article provides an explanation of GPG and its practical applications for secure message transmission.
 
 - [15 Types Of Cyber Attacks To Look Out For](https://youtu.be/NDcEOW8r0xc?si=_mx4SfLgGcnHjRdx)<br/>
 Here are some fascinating types of cyberattacks worth exploring and delving into further.
 
+## Week 03
+- [Linux Crash Course - Understanding File & Directory Permissions](https://youtu.be/4e669hSjaX8?si=uoJOtqeU5rrpEz1I)<br/>
+This video will explains the permission string and each element in it, what each part means, and how to change permissions.
+
+- [Linux Directories Explained in 100 Seconds](https://youtu.be/42iQKuQodW4?si=BKIKxb3KKFqQET6K)<br/>
+Linux is a cryptic labyrinth of directories defined by Filesystem Hierarchy Standard (FHS). This video will discuss the directories inside on the system and their functions.
+
+- [Disk Partitioning in Linux](https://www.geeksforgeeks.org/disk-partitioning-in-linux/)<br/>
+Disk partitioning is the process of dividing a disk into one or more logical areas, often known as partitions. This article will explain storage partitioning and mounting in Linux, why we need it and how to do it.
