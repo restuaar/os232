@@ -33,3 +33,10 @@ Linux is a cryptic labyrinth of directories defined by Filesystem Hierarchy Stan
 
 - [Disk Partitioning in Linux](https://www.geeksforgeeks.org/disk-partitioning-in-linux/)<br/>
 Disk partitioning is the process of dividing a disk into one or more logical areas, often known as partitions. This article will explain storage partitioning and mounting in Linux, why we need it and how to do it.
+
+## Week 04
+- [L-5.10: Question Explanation on Logical address and Physical address space | Operating System](https://youtu.be/30P73tWmU0s?si=EvEF5VxS6PteDSz-)<br/>
+This video contains Question Explanation on Logical address and Physical address space.
+
+- [you will never ask about pointers again after watching this video](https://youtu.be/2ybLD6_2gKM?si=TgSGFhymiaKy-K4p)<br/>
+One of the hardest things for new programmers to learn is pointers. Whether its single use pointers, pointers to other pointers, pointers to structures, something about the concept that makes confusion. This video will explain about pointer.
