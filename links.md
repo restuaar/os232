@@ -40,3 +40,10 @@ This video contains Question Explanation on Logical address and Physical address
 
 - [you will never ask about pointers again after watching this video](https://youtu.be/2ybLD6_2gKM?si=TgSGFhymiaKy-K4p)<br/>
 One of the hardest things for new programmers to learn is pointers. Whether its single use pointers, pointers to other pointers, pointers to structures, something about the concept that makes confusion. This video will explain about pointer.
+
+## Week 05
+- [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br/>
+Virtual Memory is a storage allocation scheme in which secondary memory can be addressed as if it were part of the main memory. This link will explain in general terms about the mentioned mapping schemes.
+
+- [Page replacement Algorithms](https://youtu.be/16kaPQtYo28?si=rnJJNkTWgXDWOpkG)<br/>
+This video will explain about Page Replacement Algorithms, such as FIFO (First-in-First-Out), LRU (Last Recently Used), and Optimal Page Replacement.

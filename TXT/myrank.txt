@@ -1,11 +1,15 @@
 # WEEKLY 3 of 10 RANKS
 # Check https://os.vlsm.org/Log/
-ZCZC W02 eryawww
-ZCZC W02 bryanjeshua
-ZCZC W02 lucindalaurent
-ZCZC W03 VirgilliaYeala
-ZCZC W03 pershyfon
-ZCZC W03 Akmal76
+
+ZCZC W05 rhaken
+ZCZC W05 sunflawlxs
+ZCZC W05 vinamyrnauli
 ZCZC W04 belatijagad
 ZCZC W04 muhkemallgp
 ZCZC W04 reyhanwiyasa
+ZCZC W03 VirgilliaYeala
+ZCZC W03 pershyfon
+ZCZC W03 Akmal76
+ZCZC W02 eryawww
+ZCZC W02 bryanjeshua
+ZCZC W02 lucindalaurent
