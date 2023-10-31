@@ -47,3 +47,13 @@ Virtual Memory is a storage allocation scheme in which secondary memory can be a
 
 - [Page replacement Algorithms](https://youtu.be/16kaPQtYo28?si=rnJJNkTWgXDWOpkG)<br/>
 This video will explain about Page Replacement Algorithms, such as FIFO (First-in-First-Out), LRU (Last Recently Used), and Optimal Page Replacement.
+
+## Week 06
+- [Operating System: Threads and Concurrency](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8)<br/>
+The website discusses the concept of threads and concurrency in operating systems by providing an explanation of the definition, types, and characteristics of each concept.
+
+- [Difference between Multiprocessing and Multithreading](https://youtu.be/oIN488Ldg9k?si=k75SMzFVNewiV4P4)<br/>
+The video explains the difference between multiprocessing and multithreading, as well as the costs incurred for each method.
+
+- [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)<br/>
+The call fork system is a mechanism to create a new process identical to the process that called it, which can be used to run multiple tasks simultaneously.

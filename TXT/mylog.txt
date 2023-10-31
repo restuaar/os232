@@ -2,6 +2,15 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
+ZCZC W06  30 L01 SCELE/Discord related
+ZCZC W06 100 L02 CLASSROOM related
+ZCZC W06  60 L05 Quiz related include studying
+ZCZC W06  20 L43 TXT/myrank.tex related, including peer review.
+ZCZC W06 180 L16 Assignments #06
+ZCZC W06  20 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W06  30 L64 Helping a friend (OS related problem)
+ZCZC W06   5 L41 TXT/mylog.txt related
+ZCZC W06   5 L03 GitHub and git related, including commit, push, pull
 ZCZC W05  30 L01 SCELE/Discord related
 ZCZC W05 200 L02 CLASSROOM related
 ZCZC W05 100 L05 Quiz related include studying
