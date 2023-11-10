@@ -57,3 +57,13 @@ The video explains the difference between multiprocessing and multithreading, as
 
 - [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)<br/>
 The call fork system is a mechanism to create a new process identical to the process that called it, which can be used to run multiple tasks simultaneously.
+
+## Week 07
+- [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)<br/>
+This website discusses process synchronization, which is a mechanism to ensure that concurrently running processes can access shared resources securely and consistently, and race condition explanation.
+
+- [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br/>
+This website explains the conditions necessary for deadlock to occur, as well as techniques to prevent or handle deadlock.
+
+- [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)<br/>
+This website explains the concept of semaphores, as well as how to use them to solve common synchronization problems, such as the producer-consumer problem and the reader-writer problem.
