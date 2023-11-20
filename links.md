@@ -67,3 +67,10 @@ This website explains the conditions necessary for deadlock to occur, as well as
 
 - [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)<br/>
 This website explains the concept of semaphores, as well as how to use them to solve common synchronization problems, such as the producer-consumer problem and the reader-writer problem.
+
+## Week 08
+- [Linux From Scratch Book 12.0](https://www.linuxfromscratch.org/lfs/view/12.0/index.html)<br/>
+The following links provide a comprehensive guide to building Linux from scratch. This resource serves as the primary reference for assignment instruction in the Operating Systems course.
+
+- [Create Your Very Own Operating System With Linux From Scratch](https://www.makeuseof.com/tag/create-operating-system-linux-scratch-linux-si/)<br/>
+Maybe you've come across the term "Linux From Scratch" before. But do you understand what it means? Linux From Scratch is an endeavor that involves building your own operating system customized to your specific needs. It is not about creating your own Linux distribution; rather, it is about installing a collection of source code documentation on your computer or virtual machine to assemble a Linux operating system.
